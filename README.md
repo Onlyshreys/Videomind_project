@@ -1,6 +1,4 @@
-<h1 align="center">
-  <br>
-  <img src="https://i.imgur.com/Jk1wxO3.png" alt="VideoMind : AI Powered Video Intelligence Platform" width="200">
+
   <br>
    🎥 VideoMind : AI Powered Video Intelligence Platform
   <br>
