@@ -9,7 +9,8 @@
 <p align="center">
   <strong>Crafted with care by Tshreya & Romitha</strong>
 </p>
-
+![rom](https://github.com/Onlyshreys/Videomind_project/blob/main/rom.jpeg)
+![rom1](https://github.com/Onlyshreys/Videomind_project/blob/main/rom1.png)
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#features">Features</a> •
